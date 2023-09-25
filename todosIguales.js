@@ -12,3 +12,5 @@ const todosIguales = (array) => {
   }
   return igual;
 };
+
+
